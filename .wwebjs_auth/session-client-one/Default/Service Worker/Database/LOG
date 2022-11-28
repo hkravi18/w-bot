@@ -1,0 +1,4 @@
+2022/11/28-12:52:05.982 4d5c Reusing MANIFEST C:\Users\lenovo\OneDrive\Desktop\w-bot\.wwebjs_auth\session-client-one\Default\Service Worker\Database/MANIFEST-000001
+2022/11/28-12:52:05.983 4d5c Recovering log #3
+2022/11/28-12:52:06.021 4d5c (ignoring error) C:\Users\lenovo\OneDrive\Desktop\w-bot\.wwebjs_auth\session-client-one\Default\Service Worker\Database/000003.log: dropping 4024 bytes; Corruption: checksum mismatch
+2022/11/28-12:52:06.022 4d5c Reusing old log C:\Users\lenovo\OneDrive\Desktop\w-bot\.wwebjs_auth\session-client-one\Default\Service Worker\Database/000003.log 
